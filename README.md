@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://positronic-ai.network/favicon.png" width="80" alt="Positronic">
+<img src="logo.png" width="120" alt="Positronic">
 
 # Positronic Security Audits
 
